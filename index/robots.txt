@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-
-Sitemap: https://clinic.mobilus-interactive.com/sitemap.xml
